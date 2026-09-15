@@ -1,0 +1,16 @@
+name: recipe_saver
+
+description: Recipe Saver mobile application based on the supplied Figma concept.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+flutter:
+  uses-material-design: true
